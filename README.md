@@ -17,6 +17,7 @@ If you've been using an earlier version of Catch, please see the
 Breaking Changes section of [the release notes](https://github.com/catchorg/Catch2/releases/tag/v2.0.1)
 before moving to Catch2. You might also like to read [this blog post](https://levelofindirection.com/blog/catch2-released.html) for more details.
 
+
 ## What's the Catch?
 
 Catch2 is a multi-paradigm test framework for C++. which also supports
